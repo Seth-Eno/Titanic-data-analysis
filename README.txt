@@ -1,0 +1,1 @@
+I used python’s Matplotlib library to draw conclusions from Kaggle’s Titanic dataset. 
